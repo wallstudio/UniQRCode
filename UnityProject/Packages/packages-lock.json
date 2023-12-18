@@ -289,10 +289,11 @@
       "url": "https://packages.unity.com"
     },
     "com.uphash.uni-rq-decoder": {
-      "version": "file:../../QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary",
+      "version": "https://github.com/wallstudio/UniQRCode.git?path=QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "ca24b655a010b717719a26a7e68e851dc4cb6ac3"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
