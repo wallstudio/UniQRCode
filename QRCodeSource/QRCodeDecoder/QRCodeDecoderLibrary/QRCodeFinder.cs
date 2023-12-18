@@ -41,6 +41,8 @@
 //	For version history please refer to QRDecoder.cs
 /////////////////////////////////////////////////////////////////////
 
+using System;
+
 namespace QRCodeDecoderLibrary
 	{
 	/// <summary>
