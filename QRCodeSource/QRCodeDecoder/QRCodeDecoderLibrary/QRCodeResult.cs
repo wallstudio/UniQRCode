@@ -43,7 +43,7 @@
 
 namespace QRCodeDecoderLibrary
 	{
-	public class QRCodeResult
+		public class QRCodeResult
 		{
 		/// <summary>
 		/// QR Code Data array

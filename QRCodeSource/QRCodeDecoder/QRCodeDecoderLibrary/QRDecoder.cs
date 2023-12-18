@@ -48,6 +48,8 @@
 //	2022/03/07: Version 3.1.0 Fix problem with unplugging the camera
 /////////////////////////////////////////////////////////////////////
 
+#undef DEBUG
+
 using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;

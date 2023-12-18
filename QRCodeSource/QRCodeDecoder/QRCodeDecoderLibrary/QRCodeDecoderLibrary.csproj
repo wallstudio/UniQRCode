@@ -5,4 +5,10 @@
     <LangVersion>9</LangVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="UnityEditor.CoreModule">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2023.2.1f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
