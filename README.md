@@ -1,3 +1,27 @@
+# Full managed QR code Decoder for Unity
+
+## installing
+
+On PackageMaanger
+
+```
+https://github.com/wallstudio/UniQRCode.git?path=QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary
+```
+
+## Usage
+
+```cs
+Texture texture = ...;
+string text = await UniQRDecoder.Decode(texture);
+Debug.Log(text);
+```
+
+https://github.com/wallstudio/UniQRCode/blob/main/QRCodeSource/QRCodeDecoder/QRCodeDecoderLibrary/UniQRDecoder.cs#L27
+
+---------
+
+↓ folk base repo
+
 # QRCode
 # QR Code Encoder and Decoder C# Class Library for VS 2022 .NET 6.0 (Version 3.1.0)
 
