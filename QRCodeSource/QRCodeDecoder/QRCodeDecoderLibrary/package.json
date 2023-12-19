@@ -1,7 +1,7 @@
 {
     "name": "com.uphash.uni-rq-decoder",
     "displayName": "Unity QR Decoder", 
-    "version": "0.0.2",               
+    "version": "1.0.1",               
     "unity": "2020.2",
     "description": "full managed QR code decoder for Unity"
 }
